@@ -1,0 +1,13 @@
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+build
+
+.DS_STORE
